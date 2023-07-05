@@ -1,4 +1,3 @@
-import React from 'react';
 import Oscillator from 'components/oscillator';
 
 function App() {
